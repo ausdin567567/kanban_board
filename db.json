@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "title": "Do Market Research",
+      "id": "BUS-1",
+      "status": "done",
+      "priority": "high",
+      "points": 5
+    },
+    {
+      "title": "Competitor analysis",
+      "id": "BUS-2",
+      "status": "done",
+      "priority": "low",
+      "points": 2
+    },
+    {
+      "title": "Develop Business Strategy",
+      "id": "BUS-3",
+      "status": "todo",
+      "priority": "medium",
+      "points": 13
+    },
+    {
+      "title": "jefn",
+      "id": "BUS-4",
+      "status": "in-progress",
+      "priority": "low",
+      "points": 8
+    },
+    {
+      "title": "Negotiate partnerships",
+      "id": "BUS-5",
+      "status": "todo",
+      "priority": "medium",
+      "points": 5
+    },
+    {
+      "title": "Develop Marketing Strategy",
+      "id": "BUS-6",
+      "status": "in-progress",
+      "priority": "low",
+      "points": 5
+    },
+    {
+      "title": "Implement marketing plan",
+      "id": "BUS-7",
+      "status": "todo",
+      "priority": "high",
+      "points": 5
+    },
+    {
+      "title": "Evaluate business performance",
+      "id": "BUS-8",
+      "status": "done",
+      "priority": "high",
+      "points": 5
+    }
+  ]
+}
